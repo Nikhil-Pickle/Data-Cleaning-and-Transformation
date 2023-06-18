@@ -1,7 +1,7 @@
 # Data Cleaning and Transformation Using Power Query/Excel
 Data Cleaning and Transformation
 
-In this project, I have utilized a [Fifa 2021 dataset from Kaggle](https://www.kaggle.com/code/cameronriley/2021-fifa-dataset#Import-and-Clean-Dataset), which is raw and unorganized. My primary objective is to enhance my Power Query skills in Excel by performing data cleaning, a crucial step in data analysis.
+In this project, I have utilized a [Fifa 2021 dataset from Kaggle](https://www.kaggle.com/code/cameronriley/2021-fifa-dataset#Import-and-Clean-Dataset) which is raw and unorganized. My primary objective is to enhance my Power Query skills in Excel by performing data cleaning, a crucial step in data analysis.
 
 Here are the steps I followed to clean the data:
 
