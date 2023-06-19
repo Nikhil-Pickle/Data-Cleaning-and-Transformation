@@ -20,7 +20,3 @@ Here are the steps I followed to clean the data:
 **After:**
 
 ![After](https://github.com/Nikhil-Pickle/Data-Cleaning-and-Transformation/blob/main/after.gif)
-
-The data is now appropriately prepared for the next step: data analysis.
-
-Link to the final excel file.
